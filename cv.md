@@ -1,16 +1,16 @@
-#Vladislav Drobysh
+# Vladislav Drobysh
 ![Avatar](imgs/avatar3.jpg)
 
-##Bio
+## Bio
 Learning to be Web Developer. Currently improving skills in Front-end, studying JavaScript. My next goal is to get first work experience in the nearest future. I think that purposefulness and patience are useful qualities to improve in IT.
 
-####Location:
+#### Location:
 Saint-Petersburg, Russia
 
-####Languages:
+#### Languages:
 Native Russian, English ( B2 )
 
-##Education
+## Education
 
 **St. Petersburg Polytechnic University**
 2017 - 2018
@@ -20,30 +20,30 @@ Native Russian, English ( B2 )
 
 **Radioengineer**
 
-##Skills
+## Skills
 
-*HTML5
-*CSS3 / SCSS
-*JavaScript
-*C++
-*Git / Github
-*Adobe Photoshop
-*Figma
+* HTML5
+* CSS3 / SCSS
+* JavaScript
+* C++
+* Git / Github
+* Adobe Photoshop
+* Figma
 
-*★★★★☆
-*★★★★☆
-*★★★☆☆
-*★★★☆☆
-*★★☆☆☆
-*★★☆☆☆
-*★★☆☆☆
+* ★★★★☆
+* ★★★★☆
+* ★★★☆☆
+* ★★★☆☆
+* ★★☆☆☆
+* ★★☆☆☆
+* ★★☆☆☆
 
-##Experience
+## Experience
 
 It is quite possible that there will be projects here, but later.
 
-###Your deadlines could be burning here
-###Contacts:
+### Your deadlines could be burning here
+### Contacts:
 
 [Telegram](https://t.me/Ariokhx)
 ![Tg icon](imgs/telegram.png)
