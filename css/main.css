@@ -1,0 +1,146 @@
+body{
+	font-family: 'Muli';
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 2em;
+	color: #33160e;
+	margin: 0;
+	padding: 0;
+}
+
+div, p, span, a, input, button, ul, li{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3, h4, h5{
+	margin: 0;
+	padding: 0;
+	font-weight: 700;
+	font-size: 40px;
+	color:#33160e;
+}
+
+h1{
+	color:#fff;
+}
+
+h2{
+	font-weight: 500;
+	font-size: 35px;
+		
+}
+
+h3{
+	font-weight: 500;
+	font-size: 25px;
+	color:#fff;
+}
+
+h4{
+	font-weight: 800;
+	font-size: 18px;	
+}
+
+.h4s{
+	font-weight: 600;
+}
+
+.header{
+	height: 300px;
+	background-image: url(Imgs/forest-cut.jpg);
+	background-size: 100% 100%;
+}
+
+.container{
+	width: 1120px;
+	margin: 0 auto;
+}
+
+.title{
+	padding-top: 100px;
+}
+
+.row{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.avatar{
+	margin-left: 100px;
+	border-style: solid;
+	border-color: #fff;
+	border-width: 4px; 
+	border-radius: 250px;
+	width: 150px;
+	height: 150px;
+}
+
+.main{
+	padding-top: 100px;
+	display: flex;
+}
+
+.main_section{
+	padding-bottom: 75px;
+	width: 560px;
+}
+
+.bio{
+	padding-top: 10px;
+}
+
+.education{
+	padding-top: 10px;
+}
+
+.skills{
+	padding-top: 10px;
+	display: flex;
+}
+.list{
+	padding-right: 50px;
+	list-style-type:none;
+}
+
+.experience{
+	padding-top: 10px;
+}
+
+.footer{
+	height: 150px;
+	background-image: url(Imgs/forest-footer1.jpg);
+}
+
+.contacts{
+	padding-top: 20px;
+}
+
+.links{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.link{
+	font-family: 'Muli';
+	color: #fff;
+	font-weight: 700;
+	font-size: 20px;
+	text-decoration: none;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.tg_icon{
+	width: 20px;
+	padding-right: 10px;
+}
+
+.mail_icon{
+	width: 20px;
+	padding-left: 30px;
+	padding-right: 10px;
+}
